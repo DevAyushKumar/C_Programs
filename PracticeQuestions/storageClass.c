@@ -12,3 +12,10 @@ int main(){
     fun();
     return 0;
 }
+
+int main(){
+    fun();
+    fun();
+    fun();
+    return 0;
+}
